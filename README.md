@@ -4,17 +4,17 @@
 
 Users is able to **create and manipulate** vector graphics containing shapes like **line segments**, **circles**, **rectangles**, and **squares** using **Clevis**.
 
-> *A Group Project of Object-Oriented Programming (COMP2021) - Project Group 1 at [The Hong Kong Polytechnic University](https://www.polyu.edu.hk/), made by [ZHANG Wengyu](https://github.com/zhangwengyu999), [XU Le](https://github.com/yoshino-polyu), [CHEN Derun](https://github.com/ShanpooO) and [YE Haowen](https://github.com/ShanYu0205), 2021-11-18*
+> *A Group Project of Object-Oriented Programming (COMP2021) - Project Group 1 at [The Hong Kong Polytechnic University](https://www.polyu.edu.hk/), made by [CHEN Derun](https://github.com/ShanpooO), [XU Le](https://github.com/yoshino-polyu), [YE Haowen](https://github.com/ShanYu0205) and [ZHANG Wengyu](https://github.com/zhangwengyu999) 2021-11-18*
 
 ## Group Members
 
-**ZHANG Wengyu [(https://github.com/zhangwengyu999)](https://github.com/zhangwengyu999)**
+**CHEN Derun [(https://github.com/ShanpooO)](https://github.com/ShanpooO)**
 
 **XU Le [(https://github.com/yoshino-polyu)](https://github.com/yoshino-polyu)**
 
-**CHEN Derun [(https://github.com/ShanpooO)](https://github.com/ShanpooO)**
-
 **YE Haowen [(https://github.com/ShanYu0205)](https://github.com/ShanYu0205)**
+
+**ZHANG Wengyu [(https://github.com/zhangwengyu999)](https://github.com/zhangwengyu999)**
 
 ## Project Report
 
@@ -46,4 +46,4 @@ For detailed user manual, please refer to [Project Report](#project-report)
 
 ---
 
-Copyright © [ZHANG Wengyu](https://github.com/zhangwengyu999), [XU Le](https://github.com/yoshino-polyu), [CHEN Derun](https://github.com/ShanpooO), [YE Haowen](https://github.com/ShanYu0205). All rights reserved.
+Copyright © [CHEN Derun](https://github.com/ShanpooO), [XU Le](https://github.com/yoshino-polyu), [YE Haowen](https://github.com/ShanYu0205), [ZHANG Wengyu](https://github.com/zhangwengyu999). All rights reserved.
